@@ -11,7 +11,7 @@
 
 ### 🛠️ Мой стек:
 
-- **SQL:** PostgreSQL, Greenplum, MS SQL — сложные запросы, оконные функции, оптимизация  
+- **SQL:** PostgreSQL — сложные запросы, оконные функции, оптимизация  
 - **Python:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Folium, PySpark  
 - **BI:** Yandex DataLens, Superset, Tableau, Power BI  
 - **ETL/Data:** Apache Airflow, ClickHouse, автоматизация пайплайнов  
